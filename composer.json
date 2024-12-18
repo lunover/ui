@@ -1,0 +1,24 @@
+{
+    "name": "u/i",
+    "description": "This ia a shadcn LIKE ui manager for basic html or laravel blade using tailwind css",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "U\\I\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Raju Shrestha",
+            "email": "raju@lunover.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.4"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.0"
+    },
+    "minimum-stability": "stable"
+}
