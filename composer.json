@@ -1,6 +1,6 @@
 {
     "name": "u/i",
-    "description": "This ia a shadcn LIKE ui manager for basic html or laravel blade using tailwind css",
+    "description": "A PHP UI components manager inspired by shadcn/ui, providing reusable components for plain HTML and Laravel Blade projects with Tailwind CSS integration",
     "type": "library",
     "license": "MIT",
     "autoload": {
@@ -20,5 +20,6 @@
     "require-dev": {
         "phpunit/phpunit": "^9.0"
     },
-    "minimum-stability": "stable"
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
