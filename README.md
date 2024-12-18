@@ -1,7 +1,8 @@
 # U/I - UI Components Manager for PHP Projects
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/u/i.svg?style=flat-square)](https://packagist.org/packages/u/i)
-[![Total Downloads](https://img.shields.io/packagist/dt/u/i.svg?style=flat-square)](https://packagist.org/packages/u/i)
+<a href="https://packagist.org/packages/u/i"><img src="https://img.shields.io/packagist/dt/u/i" alt="Total Downloads"></a>
+<a href="https://packagist.org/packages/u/i"><img src="https://img.shields.io/packagist/v/u/i" alt="Latest Stable Version"></a>
+<a href="https://packagist.org/packages/u/i"><img src="https://img.shields.io/packagist/l/u/i" alt="License"></a>
 
 A comprehensive UI components manager for PHP projects, inspired by shadcn/ui. This package brings the convenience of managing UI components to the PHP ecosystem, particularly focused on plain HTML projects and Laravel Blade implementations.
 
